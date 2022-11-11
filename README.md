@@ -52,16 +52,6 @@ Type and run the following command in your terminal.
 
 - **`npm start`**
 
-- Portfolio: [**Portfolio**](https://imagallon.github.io/portfolio1.1/) (to be updated)
-- Email: **izzymagallonworks@gmail.com**
-- **Github**: [**imagallon**](https://github.com/imagallon)
-
-**Vivianna Cowan**
-
-- Portfolio: [**Portfolio**](https://vivicowan.github.io/updated-portfolio/) (to be updated)
-- Email: **vivicare@gmail.com**
-- **Github**: [**vivicowan**](https://github.com/vivicowan)
-
 ## 😎 Author
 
 🖐 If you have any question about me or my project, feel free to contact me!
